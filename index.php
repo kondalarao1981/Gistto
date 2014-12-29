@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>:: Welcome all to Achievers Institute For Compitative Exams ::</title>
+<title>:: Welcome one and all to Achievers Institute For Compitative Exams ::</title>
 <link href="themes/generic.css" rel="stylesheet" type="text/css" />
     <link href="themes/4/slider.css" rel="stylesheet" type="text/css" />
     <script src="themes/jquery-1.7.1.min.js" type="text/javascript"></script>
